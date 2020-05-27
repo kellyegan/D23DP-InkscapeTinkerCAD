@@ -13,4 +13,4 @@ This repository include SVG files we used to build the model as well as an STL o
 
 And here is the final result:
 
-<img src ="images/print.gif" alt="Whale chip clip print on print bed." width="360">
+<img src ="images/print.jpg" alt="Whale chip clip print on print bed." width="360">
