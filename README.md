@@ -10,3 +10,7 @@ This repository include SVG files we used to build the model as well as an STL o
 
 - [Completed project in TinkerCAD](https://www.tinkercad.com/things/dxlGyn4EGNP)
 - [Whale Chip Clip on Thingiverse](https://www.thingiverse.com/thing:4402509)
+
+And here is the final result:
+
+<img src ="images/print.gif" alt="Whale chip clip print on print bed." width="360">
